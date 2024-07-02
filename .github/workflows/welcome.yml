@@ -1,0 +1,6 @@
+name: welcome tutorial github action
+on:
+  pull_request:
+    types: [opened]
+permissions:
+  pull-requests: write
